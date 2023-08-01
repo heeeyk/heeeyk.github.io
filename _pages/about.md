@@ -23,16 +23,16 @@ Research interest: AI for medical(Image segmentation, Depth of anesthesia foreca
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSRE 2023</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ***A Transformer-based Prediction Method for Depth of Anesthesia During Target-controlled Infusion of Propofol and Remifentanil*** \
-**Yongkang He**, Siyuan Peng, Mingjin Chen, Zhijing Yang, Yuanhui Chen \
+- ***A Transformer-based Prediction Method for Depth of Anesthesia During Target-controlled Infusion of Propofol and Remifentanil*** \\
+**Yongkang He**, Siyuan Peng, Mingjin Chen, Zhijing Yang, Yuanhui Chen \\
 IEEE Transactions on Neural Systems & Rehabilitation Engineering (TNSRE), 2023. [[arxiv](https://arxiv.org/abs/2303.10945)]
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML Workshops 2023</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- ***Data-Centric Diet: Effective Dataset Pruning for Medical Image Segmentation*** \
-**Yongkang He**, Mingjin Chen, Zhijing Yang, Yongyi Lu \
+- ***Data-Centric Diet: Effective Dataset Pruning for Medical Image Segmentation*** \\
+**Yongkang He**, Mingjin Chen, Zhijing Yang, Yongyi Lu \\
 ICML Workshops, 2023. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)] [[code](https://github.com/JyChen9811/DOC-VTON)]
 IEEE Transactions on Medical Imaging (TMI), Under Review.
 </div>
@@ -40,8 +40,8 @@ IEEE Transactions on Medical Imaging (TMI), Under Review.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI Under Review</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- ***Learning to In-paint: Domain Adaptive Shape Completion for 3D Organ Segmentation*** \
-Mingjin Chen, **Yongkang He**, Zhijing Yang, Yongyi Lu \
+- ***Learning to In-paint: Domain Adaptive Shape Completion for 3D Organ Segmentation*** \\
+Mingjin Chen, **Yongkang He**, Zhijing Yang, Yongyi Lu \\
 IEEE Transactions on Medical Imaging (TMI), Under Review. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)] [[code](https://github.com/JyChen9811/DOC-VTON)]
 </div>
 </div>

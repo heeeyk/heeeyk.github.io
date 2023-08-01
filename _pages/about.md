@@ -26,6 +26,8 @@ Research interest: AI for medical(Image segmentation, Depth of anesthesia foreca
 - ***A Transformer-based Prediction Method for Depth of Anesthesia During Target-controlled Infusion of Propofol and Remifentanil*** \
 **Yongkang He**, Siyuan Peng, Mingjin Chen, Zhijing Yang, Yuanhui Chen \
 IEEE Transactions on Neural Systems & Rehabilitation Engineering (TNSRE), 2023. [[arxiv](https://arxiv.org/abs/2303.10945)]
+</div>
+</div>
 
 - ***Data-Centric Diet: Effective Dataset Pruning for Medical Image Segmentation*** \
 **Yongkang He**, Mingjin Chen, Zhijing Yang, Yongyi Lu \

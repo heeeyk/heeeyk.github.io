@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master candidate in the School of Information Engineering, Guangdong University of Techonology, advised by [Prof. Zhijing Yang](https://ieeexplore.ieee.org/author/38512188800). I also collaborate with [Dr. Yongyi lu]([https://ykshi.github.io/](https://scholar.google.com/citations?user=rIJ99V4AAAAJ&hl=en&oi=sra)). Before that, I received my B.E. degree in the Collage of Electrical and Information Engineering, Hunan University of Techonology. 
+I am currently a Master candidate in the School of Information Engineering, Guangdong University of Techonology, advised by [Prof. Zhijing Yang](https://ieeexplore.ieee.org/author/38512188800). I also collaborate with [Prof. Yongyi lu](https://scholar.google.com/citations?user=rIJ99V4AAAAJ&hl=en&oi=sra). Before that, I received my B.E. degree in the Collage of Electrical and Information Engineering, Hunan University of Techonology. 
 
 Research interest: AI for medical(Image segmentation, Depth of anesthesia forecasting), Data-efficient learning, Diffusion, NeRF. 
 
@@ -23,16 +23,23 @@ Research interest: AI for medical(Image segmentation, Depth of anesthesia foreca
 
 - ***A Transformer-based Prediction Method for Depth of Anesthesia During Target-controlled Infusion of Propofol and Remifentanil*** \
 **Yongkang He**, Siyuan Peng, Mingjin Chen, Zhijing Yang, Yuanhui Chen \
-arXiv pre-print, [[arxiv](https://arxiv.org/abs/2303.10945)]
+IEEE Transactions on Neural Systems & Rehabilitation Engineering (TNSRE), 2023. [[arxiv](https://arxiv.org/abs/2303.10945)]
 
 - ***Data-Centric Diet: Effective Dataset Pruning for Medical Image Segmentation*** \
 **Yongkang He**, Mingjin Chen, Zhijing Yang, Yongyi Lu \
-IEEE Transactions on Multimedia (T-MM), 2023. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)] [[code](https://github.com/JyChen9811/DOC-VTON)]
+ICML Workshops, 2023. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)] [[code](https://github.com/JyChen9811/DOC-VTON)]
+IEEE Transactions on Medical Imaging (TMI), Under Review.
+
+- ***Learning to In-paint: Domain Adaptive Shape Completion for 3D Organ Segmentation*** \
+Mingjin Chen, **Yongkang He**, Zhijing Yang, Yongyi Lu \
+IEEE Transactions on Medical Imaging (TMI), Under Review. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)] [[code](https://github.com/JyChen9811/DOC-VTON)]
 
 # 🎖 Honors and Awards
-- *2021.9* The Second Class Scholarship, GDUT.
 - *2022.9* The Second Class Scholarship, GDUT.
-- 
+- *2021.9* The Second Class Scholarship, GDUT.
+- *2019.12* National Second Prize, National Undergraduate Electronic Design Contest.
+- *2019.8* Hunan Provincial First Prize, National Undergraduate Electronic Design Contest.
+  
 # 📖 Educations
 - *2021.09 - now*, Master, School of Information Engineering, Guangdong University of Technology.
 - *2017.09 - 2021.06*, Undergraduate, Collage of Electrical and Information Engineering, Hunan University of Technology.

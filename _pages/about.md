@@ -29,14 +29,22 @@ IEEE Transactions on Neural Systems & Rehabilitation Engineering (TNSRE), 2023. 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML Workshops 2023</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - ***Data-Centric Diet: Effective Dataset Pruning for Medical Image Segmentation*** \
 **Yongkang He**, Mingjin Chen, Zhijing Yang, Yongyi Lu \
 ICML Workshops, 2023. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)] [[code](https://github.com/JyChen9811/DOC-VTON)]
 IEEE Transactions on Medical Imaging (TMI), Under Review.
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI Under Review</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - ***Learning to In-paint: Domain Adaptive Shape Completion for 3D Organ Segmentation*** \
 Mingjin Chen, **Yongkang He**, Zhijing Yang, Yongyi Lu \
 IEEE Transactions on Medical Imaging (TMI), Under Review. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)] [[code](https://github.com/JyChen9811/DOC-VTON)]
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2022.9* The Second Class Scholarship, GDUT.

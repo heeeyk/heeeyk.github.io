@@ -33,7 +33,7 @@ IEEE Transactions on Neural Systems & Rehabilitation Engineering (TNSRE), 2023. 
 <div class='paper-box-text' markdown="1">
 - ***Data-Centric Diet: Effective Dataset Pruning for Medical Image Segmentation*** \\
 **Yongkang He**, Mingjin Chen, Zhijing Yang, Yongyi Lu \\
-ICML Workshops, 2023. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)] [[code](https://github.com/JyChen9811/DOC-VTON)]
+ICML Workshops, 2023. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)] [[code](https://github.com/JyChen9811/DOC-VTON)] \\
 IEEE Transactions on Medical Imaging (TMI), Under Review.
 </div>
 </div>

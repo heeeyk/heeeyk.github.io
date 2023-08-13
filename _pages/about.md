@@ -15,9 +15,9 @@ Research interest: AI for medical(Image segmentation, Depth of anesthesia foreca
 ***Never stop looking for collaboration, kindly contact me via email.***
 
 
-<!--# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+# 🔥 News
+- *2023.08*: &nbsp;🎉🎉 One paper about DOA prediction was accpeted by IEEE TNSRE (SCI Q2) [[arxiv](https://arxiv.org/abs/2308.01929)][[code](https://github.com/heeeyk/Transformer-DOA-Prediction)].
+
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSRE Minor Revision</div><img src='images/net.jpg' alt="sym" width="100%"></div></div>
@@ -25,7 +25,7 @@ Research interest: AI for medical(Image segmentation, Depth of anesthesia foreca
   
 - ***A Transformer-based Prediction Method for Depth of Anesthesia During Target-controlled Infusion of Propofol and Remifentanil*** \\
 **Yongkang He**, Siyuan Peng, Mingjin Chen, Zhijing Yang, Yuanhui Chen \\
-IEEE Transactions on Neural Systems & Rehabilitation Engineering (TNSRE), Minor Revision, 2023. 
+IEEE Transactions on Neural Systems & Rehabilitation Engineering (TNSRE, SCI Q2), 2023. 
 [[arxiv](https://arxiv.org/abs/2308.01929)][[code](https://github.com/heeeyk/Transformer-DOA-Prediction)]
 </div>
 </div>
